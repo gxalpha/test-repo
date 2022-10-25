@@ -1,0 +1,78 @@
+[
+  {
+    "name": "obs-properties-dock",
+    "display_name": "Properties Dock",
+    "description": "Dockable source properties and scene item transform",
+    "long_description": "Gives you a dockable Properties and Transform window, so that you can have both the properties and the preview on the same screen easily.\n\nYou can find these Docks in the \"Docks\" menu.",
+    "urls": {
+      "repository": "https://github.com/gxalpha/obs-properties-dock",
+      "support": "https://discord.gg/obsproject"
+    },
+    "authors": [
+      "gxalpha"
+    ],
+    "tags": [
+      "utility"
+    ],
+    "has_icon": false,
+    "has_banner": false,
+    "hidden": false,
+    "os_compatibility": [
+      "macos_universal"
+    ],
+    "obs_compatibility": [
+      "28.0"
+    ]
+  },
+  {
+    "name": "obs-vision-filter",
+    "display_name": "macOS Background Removal",
+    "description": "Works with AI!",
+    "long_description": "Take advantage of Apple's ML Engine and easily remove the background of your video without a greenscreen or burning your CPU.\n\nAfter installation, add the filter to any source you wish under \"Effect Filters\".\n\nThis plugin requires macOS 12.0 or newer.",
+    "urls": {
+      "repository": "https://github.com/gxalpha/obs-vision-filter",
+      "support": "https://discord.gg/obsproject"
+    },
+    "authors": [
+      "gxalpha"
+    ],
+    "tags": [
+      "filter"
+    ],
+    "has_icon": false,
+    "has_banner": false,
+    "hidden": false,
+    "os_compatibility": [
+      "macos_arm64"
+    ],
+    "obs_compatibility": [
+      "28.0"
+    ]
+  },
+  {
+    "name": "obs-scene-template",
+    "display_name": "Scene Template",
+    "description": "Yet another solution for a problem that's already solved.",
+    "long_description": "Create a reusable, but modifyable scene. Basically the best out of the two worlds of nesting scenes and copying sources.",
+    "urls": {
+      "repository": "https://github.com/gxalpha/obs-scene-template",
+      "support": "https://discord.gg/obsproject"
+    },
+    "authors": [
+      "gxalpha"
+    ],
+    "tags": [
+      "source"
+    ],
+    "has_icon": false,
+    "has_banner": false,
+    "hidden": false,
+    "os_compatibility": [
+      "windows_amd64",
+      "macos_universal"
+    ],
+    "obs_compatibility": [
+      "28.0"
+    ]
+  }
+]
